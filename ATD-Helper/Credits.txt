@@ -1,0 +1,8 @@
+@inproceedings{fadel2019arabic,
+  title={Arabic text diacritization using deep neural networks},
+  author={Fadel, Ali and Tuffaha, Ibraheem and Al-Ayyoub, Mahmoud and others},
+  booktitle={2019 2nd international conference on computer applications \& information security (ICCAIS)},
+  pages={1--7},
+  year={2019},
+  organization={IEEE}
+}
