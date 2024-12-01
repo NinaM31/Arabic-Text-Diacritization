@@ -1,5 +1,5 @@
 # Arabic Text Diacritization
-Submission of my final project for Artificial Intelligence CSC562. The aim of the project is to explore a research topic within the field of Artificial Intelligence.
+Submission of my report project for Artificial Intelligence CSC562 course. The aim of the project is to explore a research topic within the field of Artificial Intelligence.
 My topic is Arabic text diacritization, this project experiments with word sense features, and part of speech, trained on a small sample ~10K.
 
 # How To Run
@@ -53,6 +53,7 @@ The models were trained for 10 epochs using RTX 3060, Adam optimization algorith
 
 ### BiLSTM-WSD
 
+https://github.com/user-attachments/assets/4dfeda49-be81-451c-b30d-2a4280f52cbf
 
 
 ### BiLSTM-POS
