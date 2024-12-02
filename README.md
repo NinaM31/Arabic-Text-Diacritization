@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 
 # Results
-The models were trained for 10 epochs using RTX 3060, Adam optimization algorithm with 0.001 learning rate, only the first model had 256 batch size the rest were trained on 64 batch size to avoid out of memory error. Table 7 summarizes the configurations. All the models were trained on 10K lines of text.
+The models were trained for 10 epochs using RTX 3060, Adam optimization algorithm with 0.001 learning rate, only the first model had 256 batch size the rest were trained on 64 batch size to avoid out of memory error. All the models were trained on 10K lines of text.
 ### The training accuracy of the models 
 ![Untitled](https://github.com/user-attachments/assets/b7ab482e-fb63-47f6-97d8-1961ee627693)
 
