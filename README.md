@@ -53,8 +53,7 @@ The models were trained for 10 epochs using RTX 3060, Adam optimization algorith
 
 ### BiLSTM-WSD
 
-https://github.com/user-attachments/assets/4dfeda49-be81-451c-b30d-2a4280f52cbf
-
+https://github.com/user-attachments/assets/41de4895-8da2-407c-b2ed-b0c8092500c6
 
 ### BiLSTM-POS
 
